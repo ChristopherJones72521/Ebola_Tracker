@@ -1,0 +1,239 @@
+Country,Indicator,Date,Value
+Guinea,Cases,2014-10-12,1472
+Guinea,Cases,2014-07-14,411
+Guinea,Cases,2014-07-17,410
+Guinea,Cases,2014-08-26,648
+Guinea,Cases,2014-03-25,86
+Guinea,Cases,2014-07-20,415
+Guinea,Cases,2014-07-23,427
+Guinea,Cases,2014-08-20,607
+Guinea,Cases,2014-04-09,158
+Guinea,Cases,2014-07-27,460
+Guinea,Cases,2014-07-30,472
+Guinea,Cases,2014-08-18,579
+Guinea,Cases,2014-04-11,159
+Guinea,Cases,2014-08-01,485
+Guinea,Cases,2014-08-04,495
+Guinea,Cases,2014-08-16,543
+Guinea,Cases,2014-04-14,168
+Guinea,Cases,2014-08-06,495
+Guinea,Cases,2014-08-09,506
+Guinea,Cases,2014-08-13,519
+Guinea,Cases,2014-04-16,197
+Guinea,Cases,2014-08-11,510
+Guinea,Cases,2014-10-19,1540
+Guinea,Cases,2014-10-07,1350
+Guinea,Cases,2014-04-17,203
+Guinea,Cases,2014-04-20,208
+Guinea,Cases,2014-04-23,218
+Guinea,Cases,2014-10-05,1298
+Guinea,Cases,2014-03-22,49
+Guinea,Cases,2014-03-26,86
+Guinea,Cases,2014-04-26,224
+Guinea,Cases,2014-05-01,226
+Guinea,Cases,2014-05-03,231
+Guinea,Cases,2014-10-01,1199
+Guinea,Cases,2014-03-27,103
+Guinea,Cases,2014-05-05,235
+Guinea,Cases,2014-05-07,236
+Guinea,Cases,2014-09-28,1157
+Guinea,Cases,2014-03-28,112
+Guinea,Cases,2014-05-10,233
+Guinea,Cases,2014-05-12,248
+Guinea,Cases,2014-09-23,1074
+Guinea,Cases,2014-03-29,112
+Guinea,Cases,2014-05-23,258
+Guinea,Cases,2014-05-27,281
+Guinea,Cases,2014-09-21,1022
+Guinea,Cases,2014-05-28,291
+Guinea,Cases,2014-09-19,1008
+Guinea,Cases,2014-10-14,1519
+Guinea,Cases,2014-03-24,86
+Guinea,Cases,2014-06-01,328
+Guinea,Cases,2014-09-14,942
+Guinea,Cases,2014-06-03,344
+Guinea,Cases,2014-06-10,351
+Guinea,Cases,2014-09-13,936
+Guinea,Cases,2014-06-16,398
+Guinea,Cases,2014-06-18,390
+Guinea,Cases,2014-09-10,899
+Guinea,Cases,2014-03-31,122
+Guinea,Cases,2014-04-01,127
+Guinea,Cases,2014-06-20,390
+Guinea,Cases,2014-06-30,413
+Guinea,Cases,2014-09-07,861
+Guinea,Cases,2014-04-04,143
+Guinea,Cases,2014-07-02,412
+Guinea,Cases,2014-07-06,408
+Guinea,Cases,2014-09-05,812
+Guinea,Cases,2014-04-07,151
+Guinea,Cases,2014-07-08,409
+Guinea,Cases,2014-07-12,406
+Guinea,Cases,2014-08-31,771
+Liberia,Cases,2014-04-11,26
+Liberia,Cases,2014-10-18,4665
+Liberia,Cases,2014-10-13,4262
+Liberia,Cases,2014-10-11,4249
+Liberia,Cases,2014-10-07,4076
+Liberia,Cases,2014-10-04,3924
+Liberia,Cases,2014-10-01,3834
+Liberia,Cases,2014-09-28,3696
+Liberia,Cases,2014-09-23,3458
+Liberia,Cases,2014-09-21,3280
+Liberia,Cases,2014-09-17,3022
+Liberia,Cases,2014-09-14,2710
+Liberia,Cases,2014-09-09,2407
+Liberia,Cases,2014-09-07,2081
+Liberia,Cases,2014-09-05,1871
+Liberia,Cases,2014-08-31,1698
+Liberia,Cases,2014-08-26,1378
+Liberia,Cases,2014-08-20,1082
+Liberia,Cases,2014-08-18,972
+Liberia,Cases,2014-08-16,834
+Liberia,Cases,2014-08-13,786
+Liberia,Cases,2014-08-11,670
+Liberia,Cases,2014-08-09,599
+Liberia,Cases,2014-08-06,554
+Liberia,Cases,2014-08-04,516
+Liberia,Cases,2014-08-01,468
+Liberia,Cases,2014-07-30,391
+Liberia,Cases,2014-07-27,329
+Liberia,Cases,2014-07-23,249
+Liberia,Cases,2014-07-20,224
+Liberia,Cases,2014-07-17,196
+Liberia,Cases,2014-07-14,174
+Liberia,Cases,2014-07-12,172
+Liberia,Cases,2014-07-08,142
+Liberia,Cases,2014-07-06,131
+Liberia,Cases,2014-07-02,115
+Liberia,Cases,2014-06-30,107
+Liberia,Cases,2014-06-22,51
+Liberia,Cases,2014-06-19,41
+Liberia,Cases,2014-06-16,33
+Liberia,Cases,2014-06-10,13
+Liberia,Cases,2014-06-05,13
+Liberia,Cases,2014-06-03,13
+Liberia,Cases,2014-06-01,13
+Liberia,Cases,2014-05-28,13
+Liberia,Cases,2014-05-27,12
+Liberia,Cases,2014-05-23,12
+Liberia,Cases,2014-05-12,12
+Liberia,Cases,2014-05-10,12
+Liberia,Cases,2014-05-07,13
+Liberia,Cases,2014-05-05,13
+Liberia,Cases,2014-05-03,13
+Liberia,Cases,2014-05-01,13
+Liberia,Cases,2014-04-24,35
+Liberia,Cases,2014-04-21,34
+Liberia,Cases,2014-04-17,27
+Liberia,Cases,2014-04-16,27
+Liberia,Cases,2014-04-09,25
+Liberia,Cases,2014-04-07,21
+Liberia,Cases,2014-04-04,18
+Liberia,Cases,2014-04-01,8
+Liberia,Cases,2014-03-31,8
+Liberia,Cases,2014-03-29,7
+Liberia,Cases,2014-03-28,3
+Liberia,Cases,2014-03-27,8
+Nigeria,Cases,2014-09-05,22
+Nigeria,Cases,2014-09-28,20
+Nigeria,Cases,2014-09-07,21
+Nigeria,Cases,2014-07-23,0
+Nigeria,Cases,2014-10-14,20
+Nigeria,Cases,2014-07-30,3
+Nigeria,Cases,2014-10-12,20
+Nigeria,Cases,2014-10-01,20
+Nigeria,Cases,2014-10-08,20
+Nigeria,Cases,2014-08-16,15
+Nigeria,Cases,2014-09-21,20
+Nigeria,Cases,2014-08-11,12
+Nigeria,Cases,2014-10-05,20
+Nigeria,Cases,2014-08-09,13
+Nigeria,Cases,2014-09-13,21
+Nigeria,Cases,2014-08-26,17
+Nigeria,Cases,2014-08-31,21
+Nigeria,Cases,2014-08-06,13
+Nigeria,Cases,2014-08-20,16
+Nigeria,Cases,2014-08-13,12
+Nigeria,Cases,2014-09-23,20
+Nigeria,Cases,2014-08-04,9
+Nigeria,Cases,2014-08-18,15
+Nigeria,Cases,2014-09-10,21
+Nigeria,Cases,2014-10-19,20
+Nigeria,Cases,2014-08-01,4
+Nigeria,Cases,2014-07-27,1
+Sierra Leone,Cases,2014-09-23,2021
+Sierra Leone,Cases,2014-04-01,2
+Sierra Leone,Cases,2014-05-10,0
+Sierra Leone,Cases,2014-05-07,0
+Sierra Leone,Cases,2014-09-28,2304
+Sierra Leone,Cases,2014-05-05,0
+Sierra Leone,Cases,2014-03-31,2
+Sierra Leone,Cases,2014-05-03,0
+Sierra Leone,Cases,2014-10-01,2437
+Sierra Leone,Cases,2014-05-01,0
+Sierra Leone,Cases,2014-04-26,0
+Sierra Leone,Cases,2014-08-11,783
+Sierra Leone,Cases,2014-10-19,3706
+Sierra Leone,Cases,2014-08-09,730
+Sierra Leone,Cases,2014-08-13,810
+Sierra Leone,Cases,2014-04-24,0
+Sierra Leone,Cases,2014-08-06,717
+Sierra Leone,Cases,2014-04-23,0
+Sierra Leone,Cases,2014-08-04,691
+Sierra Leone,Cases,2014-08-16,848
+Sierra Leone,Cases,2014-10-05,2789
+Sierra Leone,Cases,2014-08-01,646
+Sierra Leone,Cases,2014-04-15,12
+Sierra Leone,Cases,2014-07-06,305
+Sierra Leone,Cases,2014-09-05,1261
+Sierra Leone,Cases,2014-07-02,252
+Sierra Leone,Cases,2014-04-11,2
+Sierra Leone,Cases,2014-06-30,239
+Sierra Leone,Cases,2014-09-07,1424
+Sierra Leone,Cases,2014-06-20,158
+Sierra Leone,Cases,2014-06-18,136
+Sierra Leone,Cases,2014-09-10,1478
+Sierra Leone,Cases,2014-06-17,97
+Sierra Leone,Cases,2014-04-09,2
+Sierra Leone,Cases,2014-06-10,89
+Sierra Leone,Cases,2014-09-13,1620
+Sierra Leone,Cases,2014-06-05,81
+Sierra Leone,Cases,2014-04-07,2
+Sierra Leone,Cases,2014-10-12,3252
+Sierra Leone,Cases,2014-06-01,79
+Sierra Leone,Cases,2014-09-14,1673
+Sierra Leone,Cases,2014-03-27,6
+Sierra Leone,Cases,2014-05-28,50
+Sierra Leone,Cases,2014-09-20,1813
+Sierra Leone,Cases,2014-04-04,2
+Sierra Leone,Cases,2014-05-27,16
+Sierra Leone,Cases,2014-09-21,1940
+Sierra Leone,Cases,2014-05-23,0
+Sierra Leone,Cases,2014-05-12,0
+Sierra Leone,Cases,2014-08-20,910
+Sierra Leone,Cases,2014-07-20,454
+Sierra Leone,Cases,2014-07-17,442
+Sierra Leone,Cases,2014-08-26,1026
+Sierra Leone,Cases,2014-03-28,2
+Sierra Leone,Cases,2014-07-14,397
+Sierra Leone,Cases,2014-10-08,2950
+Sierra Leone,Cases,2014-07-12,386
+Sierra Leone,Cases,2014-08-31,1216
+Sierra Leone,Cases,2014-07-08,337
+Sierra Leone,Cases,2014-04-22,0
+Sierra Leone,Cases,2014-07-30,574
+Sierra Leone,Cases,2014-08-18,907
+Sierra Leone,Cases,2014-10-14,3410
+Sierra Leone,Cases,2014-07-27,533
+Sierra Leone,Cases,2014-07-23,525
+Spain,Cases,2014-10-14,1
+Spain,Cases,2014-10-19,1
+Spain,Cases,2014-10-12,1
+Spain,Cases,2014-10-08,1
+United States,Cases,2014-10-12,2
+United States,Cases,2014-10-01,1
+United States,Cases,2014-10-14,3
+United States,Cases,2014-10-19,3
+United States,Cases,2014-10-08,1
+United States,Cases,2014-10-05,1
